@@ -239,4 +239,4 @@ var check = (0, _includes["default"])(arr).call(arr, "yeah!");
 ## 参考
 
 [@babel/plugin-transform-runtime](https://babeljs.io/docs/en/babel-plugin-transform-runtime)
-[Babel 编译出来还是 ES 6？难道只能上 polyfill？](https://www.zhihu.com/question/49382420)
+[Babel polyfill 知多少](https://zhuanlan.zhihu.com/p/29058936)
